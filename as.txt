@@ -1,0 +1,45 @@
+Grading Criteria:
+Project will be evaluated based on the following parameters
+• Completion of project features
+• Ability to provide professional and easy to use UI/UX
+• Connectivity of database
+• Exception handling and readable errors for the user
+• Responsive UI
+• Maintainable, readable and modular code
+• Reports in PDF format in professional style
+• Ability to provide more features and reports based on the provided database
+Milestones:
+Milestone name Deadline
+User Interface February 28, 2025
+Backend Implementation March 5, 2025
+Business Reports March 10, 2025
+Project Report March 15, 2025
+Project A: ITEC Event Management System
+The Information Technology Exhibition and Competition (ITEC) is an annual event organized 
+by the Department of Computer Science, UET Lahore. The event includes various activities 
+such as competitions, exhibitions, seminars, and non-tech events. It is managed by faculty 
+members and students, with responsibilities distributed across multiple organizing committees.
+Currently, the event is managed manually using spreadsheets, emails, and physical records, 
+leading to:
+• Data inconsistency in participant registrations and payments.
+• Difficulty in managing committee assignments and duties.
+• Inefficiencies in financial tracking (sponsorships, registration fees, and expenses).
+• Manual scheduling, leading to conflicts in event timings and venue allocation.
+• Lack of automated reporting for participation, financial transactions, and event results.
+To streamline event management, a centralized Event Management System is required to 
+digitize and automate the entire process.
+The system must address the following challenges:
+• Event Management: Maintain structured event categories, schedules, and venues.
+• Participant Registration & Fee Management: Track event registration fees and 
+payments.
+• Committee Management: Assign faculty and student members to specific organizing 
+committees.
+• Duty Assignments: Ensure each committee member (faculty or student) has a clear role 
+and task.
+• Financial Tracking: Manage event funding, sponsorships, registration fees, and expenses.
+• Venue Allocation: Prevent scheduling conflicts by managing venue assignments.
+• Automated Reports: Provide detailed reports on participants, finances, and event 
+performance.
+A desktop-based Windows Form Application using C# and MySQL will be developed to 
+streamline event planning, participant management, committee roles, financial tracking, and 
+duty assignments.
