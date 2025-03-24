@@ -1,0 +1,30 @@
+﻿namespace ITECApp.Forms
+{
+    partial class SignInForm
+    {
+        private System.ComponentModel.IContainer components = null;
+
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+        private void InitializeComponent()
+        {
+            this.SuspendLayout();
+            // 
+            // SignInForm
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.ClientSize = new System.Drawing.Size(400, 400);
+            this.Name = "SignInForm";
+            this.ResumeLayout(false);
+        }
+        #endregion
+    }
+}

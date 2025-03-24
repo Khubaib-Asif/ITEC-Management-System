@@ -1,0 +1,1122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|c:\\users\\al hamd laptop\\desktop\\signinsignup\\itecapp\\itecapp\\dataaccess\\eventdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\dataaccess\\eventdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|c:\\users\\al hamd laptop\\desktop\\signinsignup\\itecapp\\itecapp\\forms\\manageeventsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\forms\\manageeventsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|c:\\users\\al hamd laptop\\desktop\\signinsignup\\itecapp\\itecapp\\forms\\manageeventsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\forms\\manageeventsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|c:\\users\\al hamd laptop\\desktop\\signinsignup\\itecapp\\itecapp\\forms\\managecommitteesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\forms\\managecommitteesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|c:\\users\\al hamd laptop\\desktop\\signinsignup\\itecapp\\itecapp\\forms\\managecommitteesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\forms\\managecommitteesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|c:\\users\\al hamd laptop\\desktop\\signinsignup\\itecapp\\itecapp\\dataaccess\\committeedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\dataaccess\\committeedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|c:\\users\\al hamd laptop\\desktop\\signinsignup\\itecapp\\itecapp\\entities\\vendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\entities\\vendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|c:\\users\\al hamd laptop\\desktop\\signinsignup\\itecapp\\itecapp\\dataaccess\\vendordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\dataaccess\\vendordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|c:\\users\\al hamd laptop\\desktop\\signinsignup\\itecapp\\itecapp\\forms\\managevendorsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\forms\\managevendorsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|c:\\users\\al hamd laptop\\desktop\\signinsignup\\itecapp\\itecapp\\forms\\managevendorsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\forms\\managevendorsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|c:\\users\\al hamd laptop\\desktop\\signinsignup\\itecapp\\itecapp\\forms\\assigndutiesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\forms\\assigndutiesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|c:\\users\\al hamd laptop\\desktop\\signinsignup\\itecapp\\itecapp\\forms\\assigndutiesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\forms\\assigndutiesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|c:\\users\\al hamd laptop\\desktop\\signinsignup\\itecapp\\itecapp\\dataaccess\\sponsordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\dataaccess\\sponsordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|c:\\users\\al hamd laptop\\desktop\\signinsignup\\itecapp\\itecapp\\entities\\sponsor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\entities\\sponsor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|c:\\users\\al hamd laptop\\desktop\\signinsignup\\itecapp\\itecapp\\forms\\managesponsorsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\forms\\managesponsorsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|c:\\users\\al hamd laptop\\desktop\\signinsignup\\itecapp\\itecapp\\entities\\duty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\entities\\duty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|c:\\users\\al hamd laptop\\desktop\\signinsignup\\itecapp\\itecapp\\dataaccess\\dutydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\dataaccess\\dutydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|c:\\users\\al hamd laptop\\desktop\\signinsignup\\itecapp\\itecapp\\forms\\approverequestsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\forms\\approverequestsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|c:\\users\\al hamd laptop\\desktop\\signinsignup\\itecapp\\itecapp\\dataaccess\\requestdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\dataaccess\\requestdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|c:\\users\\al hamd laptop\\desktop\\signinsignup\\itecapp\\itecapp\\entities\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\entities\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|c:\\users\\al hamd laptop\\desktop\\signinsignup\\itecapp\\itecapp\\dataaccess\\reportdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\dataaccess\\reportdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|c:\\users\\al hamd laptop\\desktop\\signinsignup\\itecapp\\itecapp\\dataaccess\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\dataaccess\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|c:\\users\\al hamd laptop\\desktop\\signinsignup\\itecapp\\itecapp\\forms\\generatereportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\forms\\generatereportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|c:\\users\\al hamd laptop\\desktop\\signinsignup\\itecapp\\itecapp\\forms\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\forms\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|c:\\users\\al hamd laptop\\desktop\\signinsignup\\itecapp\\itecapp\\forms\\signinform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\forms\\signinform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|c:\\users\\al hamd laptop\\desktop\\signinsignup\\itecapp\\itecapp\\forms\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\forms\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|c:\\users\\al hamd laptop\\desktop\\signinsignup\\itecapp\\itecapp\\forms\\managesponsorsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\forms\\managesponsorsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\itecapp\\forms\\managesponsorsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\forms\\managesponsorsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\itecapp\\forms\\managecommitteesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\forms\\managecommitteesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\itecapp\\forms\\sponsordashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\forms\\sponsordashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|c:\\users\\al hamd laptop\\desktop\\signinsignup\\itecapp\\itecapp\\dataaccess\\roledal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\dataaccess\\roledal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\itecapp\\forms\\manageeventsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\forms\\manageeventsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|c:\\users\\al hamd laptop\\desktop\\signinsignup\\itecapp\\itecapp\\forms\\viewresultsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\forms\\viewresultsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|c:\\users\\al hamd laptop\\desktop\\signinsignup\\itecapp\\itecapp\\forms\\viewdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\forms\\viewdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|c:\\users\\al hamd laptop\\desktop\\signinsignup\\itecapp\\itecapp\\forms\\participateeventform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\forms\\participateeventform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|c:\\users\\al hamd laptop\\desktop\\signinsignup\\itecapp\\itecapp\\dataaccess\\datareadermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\dataaccess\\datareadermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|c:\\users\\al hamd laptop\\desktop\\signinsignup\\itecapp\\itecapp\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\itecapp\\forms\\approverequestsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\forms\\approverequestsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\itecapp\\forms\\generatereportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\forms\\generatereportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\itecapp\\forms\\assigndutiesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\forms\\assigndutiesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\itecapp\\forms\\managevendorsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\forms\\managevendorsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|c:\\users\\al hamd laptop\\desktop\\signinsignup\\itecapp\\itecapp\\utilities\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\utilities\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|c:\\users\\al hamd laptop\\desktop\\signinsignup\\itecapp\\itecapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|c:\\users\\al hamd laptop\\desktop\\signinsignup\\itecapp\\itecapp\\utilities\\responce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\utilities\\responce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|c:\\users\\al hamd laptop\\desktop\\signinsignup\\itecapp\\itecapp\\forms\\admindashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\forms\\admindashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|c:\\users\\al hamd laptop\\desktop\\signinsignup\\itecapp\\itecapp\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|c:\\users\\al hamd laptop\\desktop\\signinsignup\\itecapp\\itecapp\\entities\\financialtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\entities\\financialtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\itecapp\\forms\\viewresultsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\forms\\viewresultsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|c:\\users\\al hamd laptop\\desktop\\signinsignup\\itecapp\\itecapp\\forms\\facultydashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\forms\\facultydashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|c:\\users\\al hamd laptop\\desktop\\signinsignup\\itecapp\\itecapp\\forms\\studentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\forms\\studentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|c:\\users\\al hamd laptop\\desktop\\signinsignup\\itecapp\\itecapp\\forms\\basedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\forms\\basedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|c:\\users\\al hamd laptop\\desktop\\signinsignup\\itecapp\\itecapp\\dataaccess\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\dataaccess\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|c:\\users\\al hamd laptop\\desktop\\signinsignup\\itecapp\\itecapp\\bussinesslayer\\userbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\bussinesslayer\\userbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|c:\\users\\al hamd laptop\\desktop\\signinsignup\\itecapp\\itecapp\\entities\\committee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\entities\\committee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|c:\\users\\al hamd laptop\\desktop\\signinsignup\\itecapp\\itecapp\\dataaccess\\financedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\dataaccess\\financedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|c:\\users\\al hamd laptop\\desktop\\signinsignup\\itecapp\\itecapp\\bussinesslayer\\eventbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\bussinesslayer\\eventbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|c:\\users\\al hamd laptop\\desktop\\signinsignup\\itecapp\\itecapp\\bussinesslayer\\committeebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\bussinesslayer\\committeebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|c:\\users\\al hamd laptop\\desktop\\signinsignup\\itecapp\\itecapp\\forms\\studentdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\forms\\studentdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\itecapp\\forms\\basedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\forms\\basedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\itecapp\\forms\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\forms\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\itecapp\\forms\\studentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\forms\\studentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\itecapp\\forms\\facultydashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\forms\\facultydashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\itecapp\\forms\\signinform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\forms\\signinform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\itecapp\\forms\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\forms\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|c:\\users\\al hamd laptop\\desktop\\signinsignup\\itecapp\\itecapp\\itecapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A53FB1FC-8BB9-45BB-A82D-CAEA674C68D8}|ITECApp\\ITECApp.csproj|solutionrelative:itecapp\\itecapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManageEventsForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\ManageEventsForm.Designer.cs",
+              "RelativeDocumentMoniker": "ITECApp\\Forms\\ManageEventsForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\ManageEventsForm.Designer.cs*",
+              "RelativeToolTip": "ITECApp\\Forms\\ManageEventsForm.Designer.cs*",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:36:43.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Vendor.cs",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Entities\\Vendor.cs",
+              "RelativeDocumentMoniker": "ITECApp\\Entities\\Vendor.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Entities\\Vendor.cs*",
+              "RelativeToolTip": "ITECApp\\Entities\\Vendor.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:23:23.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManageCommitteesForm.cs",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\ManageCommitteesForm.cs",
+              "RelativeDocumentMoniker": "ITECApp\\Forms\\ManageCommitteesForm.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\ManageCommitteesForm.cs*",
+              "RelativeToolTip": "ITECApp\\Forms\\ManageCommitteesForm.cs*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T23:44:46.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManageCommitteesForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\ManageCommitteesForm.Designer.cs",
+              "RelativeDocumentMoniker": "ITECApp\\Forms\\ManageCommitteesForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\ManageCommitteesForm.Designer.cs*",
+              "RelativeToolTip": "ITECApp\\Forms\\ManageCommitteesForm.Designer.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T23:55:38.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CommitteeDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\DataAccess\\CommitteeDAL.cs",
+              "RelativeDocumentMoniker": "ITECApp\\DataAccess\\CommitteeDAL.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\DataAccess\\CommitteeDAL.cs*",
+              "RelativeToolTip": "ITECApp\\DataAccess\\CommitteeDAL.cs*",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAwwGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T00:33:22.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\DataAccess\\EventDAL.cs",
+              "RelativeDocumentMoniker": "ITECApp\\DataAccess\\EventDAL.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\DataAccess\\EventDAL.cs*",
+              "RelativeToolTip": "ITECApp\\DataAccess\\EventDAL.cs*",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAmwNIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T03:02:23.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VendorDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\DataAccess\\VendorDAL.cs",
+              "RelativeDocumentMoniker": "ITECApp\\DataAccess\\VendorDAL.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\DataAccess\\VendorDAL.cs*",
+              "RelativeToolTip": "ITECApp\\DataAccess\\VendorDAL.cs*",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAwwFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:22:35.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManageEventsForm.cs",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\ManageEventsForm.cs",
+              "RelativeDocumentMoniker": "ITECApp\\Forms\\ManageEventsForm.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\ManageEventsForm.cs*",
+              "RelativeToolTip": "ITECApp\\Forms\\ManageEventsForm.cs*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T09:57:00.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ManageVendorsForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\ManageVendorsForm.Designer.cs",
+              "RelativeDocumentMoniker": "ITECApp\\Forms\\ManageVendorsForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\ManageVendorsForm.Designer.cs*",
+              "RelativeToolTip": "ITECApp\\Forms\\ManageVendorsForm.Designer.cs*",
+              "ViewState": "AgIAADwAAAAAAAAAAAAwwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:22:01.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AssignDutiesForm.cs",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\AssignDutiesForm.cs",
+              "RelativeDocumentMoniker": "ITECApp\\Forms\\AssignDutiesForm.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\AssignDutiesForm.cs*",
+              "RelativeToolTip": "ITECApp\\Forms\\AssignDutiesForm.cs*",
+              "ViewState": "AgIAABkAAAAAAAAAAAAwwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T11:03:36.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SponsorDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\DataAccess\\SponsorDAL.cs",
+              "RelativeDocumentMoniker": "ITECApp\\DataAccess\\SponsorDAL.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\DataAccess\\SponsorDAL.cs*",
+              "RelativeToolTip": "ITECApp\\DataAccess\\SponsorDAL.cs*",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAwwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:10:22.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Sponsor.cs",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Entities\\Sponsor.cs",
+              "RelativeDocumentMoniker": "ITECApp\\Entities\\Sponsor.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Entities\\Sponsor.cs*",
+              "RelativeToolTip": "ITECApp\\Entities\\Sponsor.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:11:02.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DutyDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\DataAccess\\DutyDAL.cs",
+              "RelativeDocumentMoniker": "ITECApp\\DataAccess\\DutyDAL.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\DataAccess\\DutyDAL.cs*",
+              "RelativeToolTip": "ITECApp\\DataAccess\\DutyDAL.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:00:49.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AssignDutiesForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\AssignDutiesForm.Designer.cs",
+              "RelativeDocumentMoniker": "ITECApp\\Forms\\AssignDutiesForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\AssignDutiesForm.Designer.cs*",
+              "RelativeToolTip": "ITECApp\\Forms\\AssignDutiesForm.Designer.cs*",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAwwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T10:08:29.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ManageVendorsForm.cs",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\ManageVendorsForm.cs",
+              "RelativeDocumentMoniker": "ITECApp\\Forms\\ManageVendorsForm.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\ManageVendorsForm.cs*",
+              "RelativeToolTip": "ITECApp\\Forms\\ManageVendorsForm.cs*",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T11:06:13.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApproveRequestsForm.cs",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\ApproveRequestsForm.cs",
+              "RelativeDocumentMoniker": "ITECApp\\Forms\\ApproveRequestsForm.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\ApproveRequestsForm.cs*",
+              "RelativeToolTip": "ITECApp\\Forms\\ApproveRequestsForm.cs*",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T11:03:46.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RequestDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\DataAccess\\RequestDAL.cs",
+              "RelativeDocumentMoniker": "ITECApp\\DataAccess\\RequestDAL.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\DataAccess\\RequestDAL.cs*",
+              "RelativeToolTip": "ITECApp\\DataAccess\\RequestDAL.cs*",
+              "ViewState": "AgIAADMAAAAAAAAAAAAwwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T10:50:57.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Request.cs",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Entities\\Request.cs",
+              "RelativeDocumentMoniker": "ITECApp\\Entities\\Request.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Entities\\Request.cs*",
+              "RelativeToolTip": "ITECApp\\Entities\\Request.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T10:51:43.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Duty.cs",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Entities\\Duty.cs",
+              "RelativeDocumentMoniker": "ITECApp\\Entities\\Duty.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Entities\\Duty.cs*",
+              "RelativeToolTip": "ITECApp\\Entities\\Duty.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T02:58:52.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ManageSponsorsForm.cs",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\ManageSponsorsForm.cs",
+              "RelativeDocumentMoniker": "ITECApp\\Forms\\ManageSponsorsForm.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\ManageSponsorsForm.cs*",
+              "RelativeToolTip": "ITECApp\\Forms\\ManageSponsorsForm.cs*",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAwwG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T23:45:23.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ReportDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\DataAccess\\ReportDAL.cs",
+              "RelativeDocumentMoniker": "ITECApp\\DataAccess\\ReportDAL.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\DataAccess\\ReportDAL.cs*",
+              "RelativeToolTip": "ITECApp\\DataAccess\\ReportDAL.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T10:42:05.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\DataAccess\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "ITECApp\\DataAccess\\DatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\DataAccess\\DatabaseHelper.cs",
+              "RelativeToolTip": "ITECApp\\DataAccess\\DatabaseHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T21:14:18.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GenerateReportsForm.cs",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\GenerateReportsForm.cs",
+              "RelativeDocumentMoniker": "ITECApp\\Forms\\GenerateReportsForm.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\GenerateReportsForm.cs*",
+              "RelativeToolTip": "ITECApp\\Forms\\GenerateReportsForm.cs*",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T11:05:33.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SignUpForm.cs",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\SignUpForm.cs",
+              "RelativeDocumentMoniker": "ITECApp\\Forms\\SignUpForm.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\SignUpForm.cs",
+              "RelativeToolTip": "ITECApp\\Forms\\SignUpForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T21:29:28.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SignInForm.cs",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\SignInForm.cs",
+              "RelativeDocumentMoniker": "ITECApp\\Forms\\SignInForm.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\SignInForm.cs",
+              "RelativeToolTip": "ITECApp\\Forms\\SignInForm.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAwwKIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T21:21:52.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AdminDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "ITECApp\\Forms\\AdminDashboard.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\AdminDashboard.cs",
+              "RelativeToolTip": "ITECApp\\Forms\\AdminDashboard.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAIBJwEkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T00:36:33.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ManageSponsorsForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\ManageSponsorsForm.Designer.cs",
+              "RelativeDocumentMoniker": "ITECApp\\Forms\\ManageSponsorsForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\ManageSponsorsForm.Designer.cs",
+              "RelativeToolTip": "ITECApp\\Forms\\ManageSponsorsForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T23:57:04.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ManageCommitteesForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\ManageCommitteesForm.cs",
+              "RelativeDocumentMoniker": "ITECApp\\Forms\\ManageCommitteesForm.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\ManageCommitteesForm.cs [Design]*",
+              "RelativeToolTip": "ITECApp\\Forms\\ManageCommitteesForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T23:41:41.968Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ManageSponsorsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\ManageSponsorsForm.cs",
+              "RelativeDocumentMoniker": "ITECApp\\Forms\\ManageSponsorsForm.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\ManageSponsorsForm.cs [Design]*",
+              "RelativeToolTip": "ITECApp\\Forms\\ManageSponsorsForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T23:40:15.347Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SponsorDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\SponsorDashboard.cs",
+              "RelativeDocumentMoniker": "ITECApp\\Forms\\SponsorDashboard.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\SponsorDashboard.cs [Design]",
+              "RelativeToolTip": "ITECApp\\Forms\\SponsorDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T23:43:08.95Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RoleDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\DataAccess\\RoleDAL.cs",
+              "RelativeDocumentMoniker": "ITECApp\\DataAccess\\RoleDAL.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\DataAccess\\RoleDAL.cs",
+              "RelativeToolTip": "ITECApp\\DataAccess\\RoleDAL.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T22:44:55.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ManageEventsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\ManageEventsForm.cs",
+              "RelativeDocumentMoniker": "ITECApp\\Forms\\ManageEventsForm.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\ManageEventsForm.cs [Design]*",
+              "RelativeToolTip": "ITECApp\\Forms\\ManageEventsForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T23:25:30.776Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ParticipateEventForm.cs",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\ParticipateEventForm.cs",
+              "RelativeDocumentMoniker": "ITECApp\\Forms\\ParticipateEventForm.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\ParticipateEventForm.cs",
+              "RelativeToolTip": "ITECApp\\Forms\\ParticipateEventForm.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T11:07:18.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ViewResultsForm.cs",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\ViewResultsForm.cs",
+              "RelativeDocumentMoniker": "ITECApp\\Forms\\ViewResultsForm.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\ViewResultsForm.cs",
+              "RelativeToolTip": "ITECApp\\Forms\\ViewResultsForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T11:07:39.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ViewDetailsForm.cs",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\ViewDetailsForm.cs",
+              "RelativeDocumentMoniker": "ITECApp\\Forms\\ViewDetailsForm.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\ViewDetailsForm.cs",
+              "RelativeToolTip": "ITECApp\\Forms\\ViewDetailsForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T11:07:47.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DataReaderMap.cs",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\DataAccess\\DataReaderMap.cs",
+              "RelativeDocumentMoniker": "ITECApp\\DataAccess\\DataReaderMap.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\DataAccess\\DataReaderMap.cs",
+              "RelativeToolTip": "ITECApp\\DataAccess\\DataReaderMap.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T03:19:21.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "ITECApp\\Entities\\Role.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Entities\\Role.cs",
+              "RelativeToolTip": "ITECApp\\Entities\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T22:45:52.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ApproveRequestsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\ApproveRequestsForm.cs",
+              "RelativeDocumentMoniker": "ITECApp\\Forms\\ApproveRequestsForm.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\ApproveRequestsForm.cs [Design]*",
+              "RelativeToolTip": "ITECApp\\Forms\\ApproveRequestsForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T10:58:54.759Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "GenerateReportsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\GenerateReportsForm.cs",
+              "RelativeDocumentMoniker": "ITECApp\\Forms\\GenerateReportsForm.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\GenerateReportsForm.cs [Design]*",
+              "RelativeToolTip": "ITECApp\\Forms\\GenerateReportsForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T10:58:26.349Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AssignDutiesForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\AssignDutiesForm.cs",
+              "RelativeDocumentMoniker": "ITECApp\\Forms\\AssignDutiesForm.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\AssignDutiesForm.cs [Design]*",
+              "RelativeToolTip": "ITECApp\\Forms\\AssignDutiesForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T10:57:51.551Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ManageVendorsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\ManageVendorsForm.cs",
+              "RelativeDocumentMoniker": "ITECApp\\Forms\\ManageVendorsForm.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\ManageVendorsForm.cs [Design]*",
+              "RelativeToolTip": "ITECApp\\Forms\\ManageVendorsForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T10:57:16.822Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UserSession.cs",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Utilities\\UserSession.cs",
+              "RelativeDocumentMoniker": "ITECApp\\Utilities\\UserSession.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Utilities\\UserSession.cs",
+              "RelativeToolTip": "ITECApp\\Utilities\\UserSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T21:39:39.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Program.cs",
+              "RelativeDocumentMoniker": "ITECApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Program.cs",
+              "RelativeToolTip": "ITECApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T21:48:59.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Responce.cs",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Utilities\\Responce.cs",
+              "RelativeDocumentMoniker": "ITECApp\\Utilities\\Responce.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Utilities\\Responce.cs",
+              "RelativeToolTip": "ITECApp\\Utilities\\Responce.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T21:06:17.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Admindashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\Admindashboard.Designer.cs",
+              "RelativeDocumentMoniker": "ITECApp\\Forms\\Admindashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\Admindashboard.Designer.cs",
+              "RelativeToolTip": "ITECApp\\Forms\\Admindashboard.Designer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T00:46:31.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "ITECApp\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Entities\\User.cs",
+              "RelativeToolTip": "ITECApp\\Entities\\User.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T21:03:45.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "FinancialTransaction.cs",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Entities\\FinancialTransaction.cs",
+              "RelativeDocumentMoniker": "ITECApp\\Entities\\FinancialTransaction.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Entities\\FinancialTransaction.cs",
+              "RelativeToolTip": "ITECApp\\Entities\\FinancialTransaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T03:40:42.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ViewResultsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\ViewResultsForm.cs",
+              "RelativeDocumentMoniker": "ITECApp\\Forms\\ViewResultsForm.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\ViewResultsForm.cs [Design]",
+              "RelativeToolTip": "ITECApp\\Forms\\ViewResultsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T10:47:39.184Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "StudentDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\StudentDashboard.cs",
+              "RelativeDocumentMoniker": "ITECApp\\Forms\\StudentDashboard.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\StudentDashboard.cs",
+              "RelativeToolTip": "ITECApp\\Forms\\StudentDashboard.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAwwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T00:38:24.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "FacultyDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\FacultyDashboard.cs",
+              "RelativeDocumentMoniker": "ITECApp\\Forms\\FacultyDashboard.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\FacultyDashboard.cs",
+              "RelativeToolTip": "ITECApp\\Forms\\FacultyDashboard.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T00:37:33.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "UserDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\DataAccess\\UserDAL.cs",
+              "RelativeDocumentMoniker": "ITECApp\\DataAccess\\UserDAL.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\DataAccess\\UserDAL.cs",
+              "RelativeToolTip": "ITECApp\\DataAccess\\UserDAL.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAowGIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T21:07:07.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "UserBLL.cs",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\BussinessLayer\\UserBLL.cs",
+              "RelativeDocumentMoniker": "ITECApp\\BussinessLayer\\UserBLL.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\BussinessLayer\\UserBLL.cs",
+              "RelativeToolTip": "ITECApp\\BussinessLayer\\UserBLL.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAwwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T21:16:36.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "BaseDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\BaseDashboard.cs",
+              "RelativeDocumentMoniker": "ITECApp\\Forms\\BaseDashboard.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\BaseDashboard.cs",
+              "RelativeToolTip": "ITECApp\\Forms\\BaseDashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T00:35:11.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Committee.cs",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Entities\\Committee.cs",
+              "RelativeDocumentMoniker": "ITECApp\\Entities\\Committee.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Entities\\Committee.cs",
+              "RelativeToolTip": "ITECApp\\Entities\\Committee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T00:58:18.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "FinanceDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\DataAccess\\FinanceDAL.cs",
+              "RelativeDocumentMoniker": "ITECApp\\DataAccess\\FinanceDAL.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\DataAccess\\FinanceDAL.cs",
+              "RelativeToolTip": "ITECApp\\DataAccess\\FinanceDAL.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T02:58:10.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "EventBLL.cs",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\BussinessLayer\\EventBLL.cs",
+              "RelativeDocumentMoniker": "ITECApp\\BussinessLayer\\EventBLL.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\BussinessLayer\\EventBLL.cs",
+              "RelativeToolTip": "ITECApp\\BussinessLayer\\EventBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T02:57:32.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "CommitteeBLL.cs",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\BussinessLayer\\CommitteeBLL.cs",
+              "RelativeDocumentMoniker": "ITECApp\\BussinessLayer\\CommitteeBLL.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\BussinessLayer\\CommitteeBLL.cs",
+              "RelativeToolTip": "ITECApp\\BussinessLayer\\CommitteeBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T02:57:05.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "StudentDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\StudentDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "ITECApp\\Forms\\StudentDashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\StudentDashboard.Designer.cs",
+              "RelativeToolTip": "ITECApp\\Forms\\StudentDashboard.Designer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T00:47:06.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "BaseDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\BaseDashboard.cs",
+              "RelativeDocumentMoniker": "ITECApp\\Forms\\BaseDashboard.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\BaseDashboard.cs [Design]",
+              "RelativeToolTip": "ITECApp\\Forms\\BaseDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T00:34:51.252Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "AdminDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "ITECApp\\Forms\\AdminDashboard.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\AdminDashboard.cs [Design]",
+              "RelativeToolTip": "ITECApp\\Forms\\AdminDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T00:36:15.574Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "StudentDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\StudentDashboard.cs",
+              "RelativeDocumentMoniker": "ITECApp\\Forms\\StudentDashboard.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\StudentDashboard.cs [Design]",
+              "RelativeToolTip": "ITECApp\\Forms\\StudentDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T00:38:16.411Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "FacultyDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\FacultyDashboard.cs",
+              "RelativeDocumentMoniker": "ITECApp\\Forms\\FacultyDashboard.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\FacultyDashboard.cs [Design]",
+              "RelativeToolTip": "ITECApp\\Forms\\FacultyDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T00:37:18.723Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "SignInForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\SignInForm.cs",
+              "RelativeDocumentMoniker": "ITECApp\\Forms\\SignInForm.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\SignInForm.cs [Design]",
+              "RelativeToolTip": "ITECApp\\Forms\\SignInForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T21:17:34.614Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "SignUpForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\SignUpForm.cs",
+              "RelativeDocumentMoniker": "ITECApp\\Forms\\SignUpForm.cs",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\Forms\\SignUpForm.cs [Design]",
+              "RelativeToolTip": "ITECApp\\Forms\\SignUpForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T21:18:03.656Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ITECApp.csproj",
+              "DocumentMoniker": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\ITECApp.csproj",
+              "RelativeDocumentMoniker": "ITECApp\\ITECApp.csproj",
+              "ToolTip": "C:\\Users\\Al Hamd Laptop\\Desktop\\signinsignup\\ITECApp\\ITECApp\\ITECApp.csproj",
+              "RelativeToolTip": "ITECApp\\ITECApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-22T21:00:12.947Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
